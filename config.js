@@ -6,6 +6,6 @@ window.NEON_CONFIG = {
   supabaseAnonKey: "sb_publishable_15gkstOk6Ctxxa1tsSxy7w_i5n26En_",
   siteName: "NEON ENGLISH",
   currency: "GBP",
-  supportEmail: "",
-  demoMode: true
+  supportEmail: "joeywsanders@gmail.com",
+  demoMode: false
 };
